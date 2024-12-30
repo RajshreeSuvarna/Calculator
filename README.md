@@ -3,8 +3,8 @@ This project is a stylish and functional interactive calculator built using HTML
 
 
 ## Features
-1. Basic Arithmetic Operations: 
-   Supports addition, subtraction, multiplication, division, and modulus operations.
+1.  Arithmetic Operations: 
+   Supports addition, subtraction, multiplication, division and modulus operations.
 2. Clear and Delete Option:
   - AC: Clears the entire input.
   - DE: Deletes the last entered character.
